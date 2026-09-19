@@ -18,8 +18,11 @@
 </div>
 </div>
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+<h1 align="center">Hi 👋, I'm Sashwanth A</h1>
+
+<h3 align="center">
+Cybersecurity Enthusiast • Java Backend Developer • Ethical Hacking
+</h3>
 
 <br>
 
