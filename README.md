@@ -18,14 +18,6 @@
 </div>
 </div>
 
-<h1 align="center">Hi 👋, I'm Sashwanth A</h1>
-
-<h3 align="center">
-Cybersecurity Enthusiast • Java Backend Developer • Ethical Hacking
-</h3>
-
-<br>
-
 <div align="center">
 
   <a href="https://mail.google.com/mail/u/0/#inbox">
