@@ -44,40 +44,6 @@ Cybersecurity Enthusiast • Java Backend Developer • Ethical Hacking
 
 <br>
 
-<div class="binary-line">
-  <div class="binary-track">
-    0101010011010101101010010101101001010101101001011010100101011010010101011010
-    &nbsp;&nbsp;&nbsp;
-    0101010011010101101010010101101001010101101001011010100101011010010101011010
-  </div>
-</div>
-
-<style>
-.binary-line {
-  width: 100%;
-  overflow: hidden;
-  white-space: nowrap;
-  background: transparent;
-  color: #00f7ff;
-  font-family: "Share Tech Mono", monospace;
-  font-size: 14px;
-}
-
-.binary-track {
-  display: inline-block;
-  animation: binaryMove 12s linear infinite;
-}
-
-@keyframes binaryMove {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(-50%);
-  }
-}
-</style>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sashwanth+A;Cybersecurity+Enthusiast+%F0%9F%94%90;Java+Backend+Developer+%F0%9F%92%BB;Ethical+Hacking+Enthusiast+%F0%9F%95%B5%EF%B8%8F)](https://git.io/typing-svg)
