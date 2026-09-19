@@ -40,6 +40,11 @@
 ---
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+### 🌐 Web & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,react,flask,fastapi" />
+</p>
 
 ## 🛡️ WHO AM I?
 
