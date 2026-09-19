@@ -62,6 +62,8 @@
 
 ## ⚡️ Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/M3M1yGYrYG?theme=dark&font=Fira%20Code&colors=cyan%2Fgreen&ext=contest)
+
 <br>
 
 <div align="center">
