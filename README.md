@@ -78,24 +78,17 @@
        alt="Sashwanth's Most Used Languages" />
 
 </div>
-
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/sashwanth-arul/sashwanth-arul/output/github-contribution-grid-snake-dark.svg">
-
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/sashwanth-arul/sashwanth-arul/output/github-contribution-grid-snake.svg">
-
-    <img src="https://raw.githubusercontent.com/sashwanth-arul/sashwanth-arul/output/github-contribution-grid-snake.svg"
-         alt="GitHub Contribution Snake"
-         width="100%">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/sashwanth-arul/sashwanth-arul/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%">
 </p>
 
-<hr>
+
+
 ## 🛡️ WHO AM I?
 
 ```text
