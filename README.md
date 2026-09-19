@@ -38,6 +38,44 @@
 </div>
 
 ---
+
+# 🧰 TECH STACK
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+</p>
+
+### 🌐 Web & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,flask,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 📊 Data & AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+</p>
+
+### 🔐 Cybersecurity & Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,notion" />
+</p>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 ### 🌐 Web & Backend
