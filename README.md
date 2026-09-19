@@ -142,21 +142,3 @@ Cybersecurity Enthusiast • Java Backend Developer • Ethical Hacking
     alt="GitHub Contribution Snake"
     width="100%">
 </p>
-
-
-
-## 🛡️ WHO AM I?
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SASHWANTH A                               │
-├──────────────────────────────────────────────────────────────┤
-│ 🎓 B.Tech Information Technology                              │
-│ 🏫 Sri Venkateswara College of Engineering                    │
-│ 📊 Interested in Data Analytics & Cybersecurity                │
-│ 🐍 Python | Java | SQL                                        │
-│ 🌐 Backend & Web Application Development                       │
-│ 🔐 Exploring Cybersecurity & Ethical Hacking                   │
-│ 🧠 DSA | DBMS | OOP | System Design                           │
-│ 🚀 Building practical projects and continuously learning      │
-└──────────────────────────────────────────────────────────────┘
