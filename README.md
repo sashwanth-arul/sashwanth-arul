@@ -1,7 +1,5 @@
 <div align="center">
 
-  <p>👀 Profile Visitors</p>
-
   <img src="https://komarev.com/ghpvc/?username=sashwanth-arul&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" 
        alt="Profile Views" />
 
@@ -38,7 +36,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=28&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sashwanth+A;Cybersecurity+Enthusiast+%F0%9F%94%90;Java+Backend+Developer+%F0%9F%92%BB;Ethical+Hacking+Enthusiast+%F0%9F%95%B5%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oxanium&weight=700&size=32&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=1100&height=80&letterSpacing=2px&lines=Vanakam+da+mapla+%F0%9F%91%8B;I'm+SASHWANTH;Cybersecurity+Enthusiast+%F0%9F%94%90;Java+Backend+Developer+%F0%9F%92%BB;Ethical+Hacking+Enthusiast+%F0%9F%95%B5%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 <hr>
