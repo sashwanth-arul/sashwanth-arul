@@ -48,96 +48,16 @@
 
 </div>
 
----
-<!-- =========================
-     TECH STACK
-========================= -->
-
-<h2 align="center">🧰 TECH STACK</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="100%">
-
-<h3>💻 Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<h3>🌐 Web & Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,react,flask,fastapi" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<h3>🗄️ Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<h3>📊 Data & AI</h3>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+## 🛠️ Languages and Tools
 
 <br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<h3>🛡️ Cybersecurity & Systems</h3>
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00E5FF"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<h3>🛠️ Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,notion,git,github" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rasterio-139C5A?style=for-the-badge&logoColor=white"/>
-
-</td>
-</tr>
-
-</table>
-
+<hr>
 ## 🛡️ WHO AM I?
 
 ```text
