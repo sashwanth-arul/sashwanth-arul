@@ -44,10 +44,39 @@ Cybersecurity Enthusiast • Java Backend Developer • Ethical Hacking
 
 <br>
 
-<div align="center">
+<div class="binary-line">
+  <div class="binary-track">
+    0101010011010101101010010101101001010101101001011010100101011010010101011010
+    &nbsp;&nbsp;&nbsp;
+    0101010011010101101010010101101001010101101001011010100101011010010101011010
+  </div>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="90%">
-<hr>
+<style>
+.binary-line {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  background: transparent;
+  color: #00f7ff;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 14px;
+}
+
+.binary-track {
+  display: inline-block;
+  animation: binaryMove 12s linear infinite;
+}
+
+@keyframes binaryMove {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+</style>
 
 <div align="center">
 
