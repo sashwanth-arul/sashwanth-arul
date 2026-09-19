@@ -1,6 +1,10 @@
 <div align="center">
-  <p>👀 Visitors</p>
-  <img src="https://profile-counter.glitch.me/sashwanth-arul/count.svg" alt="Visitor Count" />
+
+  <p>👀 Profile Visitors</p>
+
+  <img src="https://komarev.com/ghpvc/?username=sashwanth-arul&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" 
+       alt="Profile Views" />
+
 </div>
 <!-- =========================
      CYBERSECURITY PROFILE
