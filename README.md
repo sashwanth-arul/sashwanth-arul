@@ -1,6 +1,6 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+<div align="center">
+  <p>👀 Visitors</p>
+  <img src="https://profile-counter.glitch.me/sashwanth-arul/count.svg" alt="Visitor Count" />
 </div>
 <!-- =========================
      CYBERSECURITY PROFILE
