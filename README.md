@@ -59,27 +59,25 @@
 
 <hr>
 
-## ⚡️ GitHub Analytics
+## ⚡️ Stats
 
 <br>
 
 <div align="center">
 
   <img width="390"
-       src="https://github-readme-stats.vercel.app/api?username=sashwanth-arul&theme=transparent&count_private=true&show_icons=true&rank_icon=github&title_color=00ff88&icon_color=00e5ff&text_color=c9d1d9&locale=en"
+       src="https://github-readme-stats.vercel.app/api?username=sashwanth-arul&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"
        alt="Sashwanth's GitHub Stats" />
 
   <img width="390"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=sashwanth-arul&theme=transparent&border_radius=10&ring=00ff88&fire=00e5ff&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=888888"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=sashwanth-arul&theme=transparent&border_radius=10&locale=en"
        alt="Sashwanth's GitHub Streak" />
 
   <img width="325"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=sashwanth-arul&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&title_color=00ff88&text_color=c9d1d9&locale=en"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=sashwanth-arul&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"
        alt="Sashwanth's Most Used Languages" />
 
 </div>
-
-<hr>
 ## 🛡️ WHO AM I?
 
 ```text
