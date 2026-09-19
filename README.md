@@ -79,33 +79,9 @@
 
 <td>
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sashwanth-arul&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"
-  width="400"
-  alt="Sashwanth's GitHub Stats"
-/>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td>
-<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=sashwanth-arul&theme=transparent&border_radius=10&locale=en"
   width="400"
   alt="Sashwanth's GitHub Streak"
-/>
-</td>
-
-<td>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=sashwanth-arul&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"
-  width="325"
-  alt="Sashwanth's Most Used Languages"
 />
 </td>
 
@@ -115,6 +91,7 @@
 </div>
 
 <br>
+
 
 <h2 align="center">🐍 Contribution Activity</h2>
 
