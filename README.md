@@ -12,7 +12,7 @@
 ========================= -->
 
 <div align="center">
-  <img src="./assets/github-profile-banner.png"
+  <img src="./assets/github-profile-banner.jpeg"
        width="100%"
        alt="Sashwanth A GitHub Profile">
 </div>
