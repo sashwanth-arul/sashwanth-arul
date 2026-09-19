@@ -45,8 +45,15 @@ Cybersecurity Enthusiast • Java Backend Developer • Ethical Hacking
 <br>
 
 <div align="center">
+<hr>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+Data+Analytics+%7C+Backend+Development;Python+%7C+Java+%7C+SQL+%7C+Linux;Analyzing+Data.+Building+Systems.+Learning+Security.;Turning+Problems+Into+Practical+Solutions."/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sashwanth+A;Cybersecurity+Enthusiast+%F0%9F%94%90;Java+Backend+Developer+%F0%9F%92%BB;Ethical+Hacking+Enthusiast+%F0%9F%95%B5%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
+
+<hr>
 
 </div>
 
