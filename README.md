@@ -12,9 +12,10 @@
 ========================= -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:071A2B,100:00E5FF&text=SASHWANTH%20A&fontColor=00E5FF&fontSize=55&fontAlignY=35&desc=Cybersecurity%20%7C%20Data%20Analytics%20%7C%20Software%20Development&descAlignY=60&descSize=18&descColor=FFFFFF"/>
-
+  <img src="./assets/github-profile-banner.png"
+       width="100%"
+       alt="Sashwanth A GitHub Profile">
+</div>
 </div>
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
